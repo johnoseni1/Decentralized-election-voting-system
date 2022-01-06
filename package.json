@@ -10,8 +10,7 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "John Oseni",
   "devDependencies": {
     "lite-server": "^2.3.0"
   }
