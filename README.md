@@ -34,5 +34,5 @@ You must migrate the election smart contract each time your restart ganache.
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 
-If you get stuck, please reference the free video tutorial.
+
 
